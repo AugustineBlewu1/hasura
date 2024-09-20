@@ -1,0 +1,3 @@
+table:
+  name: pizzas
+  schema: public
